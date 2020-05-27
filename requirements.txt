@@ -1,4 +1,4 @@
-
+category-encoders==2.2.2
 conda==4.3.16
 joblib==0.13.2
 numpy==1.16.5
